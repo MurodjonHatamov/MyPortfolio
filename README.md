@@ -10,5 +10,5 @@ HTML5, CSS3, JavaScript – Frontend dasturlash
 
 PWA – Progressive Web App yaratish
 
-Demo: Loyihani ko'rish
+Demo: myportfolio0611.netlify.app
 
